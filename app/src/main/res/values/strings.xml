@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleMapsSDK</string>
+    <string name="API_KEY">API_KEY</string>
+</resources>
